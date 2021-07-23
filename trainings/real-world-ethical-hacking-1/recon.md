@@ -20,9 +20,32 @@ theHarvester -d ung.edu -b linkedin,google -f report.html
 
 ## Recon-ng
 
+![](../../.gitbook/assets/image%20%282%29.png)
+
+```text
+recon-ng
+
+marketplace install recon
+
+marketplace search hackertarget
+modules load recon/domains-hosts/hackertarget
+options list
+options set SOURCE ung.edu
+run
+show hosts
+```
+
 ## nmap
 
-## Legion
+```text
+nmap 10.0.9.9 -sV
+```
+
+## Legion \(Sparta\)
+
+
+
+
 
 
 
