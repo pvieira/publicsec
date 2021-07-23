@@ -11,6 +11,7 @@
   * [Real World Ethical Hacking](trainings/real-world-ethical-hacking-1/README.md)
     * [Hacking Windows / Mac](trainings/real-world-ethical-hacking-1/real-world-ethical-hacking.md)
     * [Virtual Lab](trainings/real-world-ethical-hacking-1/virtual-lab.md)
+    * [Recon](trainings/real-world-ethical-hacking-1/recon.md)
 
 ## Crypto
 
