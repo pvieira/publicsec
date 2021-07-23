@@ -8,9 +8,9 @@
 * [Videos - Conferences](videos-conferences.md)
 * [Meetups](meetups.md)
 * [Trainings](trainings/README.md)
-  * [Real World Ethical Hacking](trainings/real-world-ethical-hacking-1.md)
-  * [Hacking Windows / Mac](trainings/real-world-ethical-hacking.md)
-  * [Virtual Lab](trainings/virtual-lab.md)
+  * [Real World Ethical Hacking](trainings/real-world-ethical-hacking-1/README.md)
+    * [Hacking Windows / Mac](trainings/real-world-ethical-hacking-1/real-world-ethical-hacking.md)
+    * [Virtual Lab](trainings/real-world-ethical-hacking-1/virtual-lab.md)
 
 ## Crypto
 
