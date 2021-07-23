@@ -7,6 +7,8 @@
 * [Writeups](writeups.md)
 * [Videos - Conferences](videos-conferences.md)
 * [Meetups](meetups.md)
+* [Trainings](trainings/README.md)
+  * [Real World Ethical Hacking](trainings/real-world-ethical-hacking.md)
 
 ## Crypto
 
