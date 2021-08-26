@@ -19,6 +19,7 @@
     * [Linux Commands](trainings/real-world-ethical-hacking-1/linux-commands.md)
     * [Windows Commands](trainings/real-world-ethical-hacking-1/windows-commands.md)
     * [Recon](trainings/real-world-ethical-hacking-1/recon.md)
+    * [Metasploit](trainings/real-world-ethical-hacking-1/metasploit.md)
 
 ## Capture The Flag
 
