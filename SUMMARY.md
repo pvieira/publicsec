@@ -13,6 +13,12 @@
     * [Virtual Lab](trainings/real-world-ethical-hacking-1/virtual-lab.md)
     * [Recon](trainings/real-world-ethical-hacking-1/recon.md)
 
+## Capture The Flag
+
+* [Subscribed](capture-the-flag/subscribed.md)
+* [Full List](capture-the-flag/full-list.md)
+* [Tools](capture-the-flag/tools.md)
+
 ## Crypto
 
 * [Cipher](crypto/cipher/README.md)
@@ -45,12 +51,6 @@
 
 * [Scripts](cheatsheets/scripts.md)
 * [CheatSheets](cheatsheets/untitled.md)
-
-## Capture The Flag
-
-* [Subscribed](capture-the-flag/subscribed.md)
-* [Full List](capture-the-flag/full-list.md)
-* [Tools](capture-the-flag/tools.md)
 
 ## OSINT
 
