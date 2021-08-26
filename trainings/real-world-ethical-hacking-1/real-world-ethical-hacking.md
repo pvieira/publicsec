@@ -6,7 +6,8 @@
 
 ### Let’s see how to ethically hack a windows box
 
-* Get a legalWindows \(or other\) boot disk
+* Get a legal Windows \(or other\) boot disk
+  * [https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise)
 * Use 2 ‘special’ keys, 2 reboots, and 4 terminal commands to reset the password or create a new Admin user
   * Use f2/DEL/f12 to boot from Windows install disk.
     * Click Troubleshoot. Click Command Prompt. 
@@ -34,4 +35,6 @@
 * Enter a new ‘root’ password, twice
   * exit
 * Log in as root using the new password
+
+[Sosumi](https://github.com/popey/sosumi-snap) -  Download and install macOS in a VM
 
