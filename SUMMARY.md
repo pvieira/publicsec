@@ -4,6 +4,7 @@
 * [People](people.md)
 * [OSCP](oscp/README.md)
   * [Guides](oscp/guides.md)
+  * [www.0daysecurity.com](oscp/www.0daysecurity.com.md)
 * [Misc](misc.md)
 * [Writeups](writeups.md)
 * [Videos - Conferences](videos-conferences.md)
