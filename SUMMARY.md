@@ -16,6 +16,8 @@
   * [Real World Ethical Hacking](trainings/real-world-ethical-hacking-1/README.md)
     * [Hacking Windows / Mac](trainings/real-world-ethical-hacking-1/real-world-ethical-hacking.md)
     * [Virtual Lab](trainings/real-world-ethical-hacking-1/virtual-lab.md)
+    * [Linux Commands](trainings/real-world-ethical-hacking-1/linux-commands.md)
+    * [Windows Commands](trainings/real-world-ethical-hacking-1/windows-commands.md)
     * [Recon](trainings/real-world-ethical-hacking-1/recon.md)
 
 ## Capture The Flag
