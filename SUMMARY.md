@@ -21,6 +21,9 @@
 * [Subscribed](capture-the-flag/subscribed.md)
 * [Full List](capture-the-flag/full-list.md)
 * [Tools](capture-the-flag/tools.md)
+* [Over The Wire](capture-the-flag/over-the-wire/README.md)
+  * [Bandit](capture-the-flag/over-the-wire/bandit.md)
+  * [Natas](capture-the-flag/over-the-wire/natas.md)
 
 ## Crypto
 
