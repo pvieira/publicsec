@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Security](README.md)
-* [Videos - Conferences](videos-conferences.md)
+* [Conferences](videos-conferences/README.md)
+  * [Videos](videos-conferences/videos.md)
 * [Meetups](meetups.md)
 * [Certifications](certifications/README.md)
   * [OSCP](certifications/oscp/README.md)

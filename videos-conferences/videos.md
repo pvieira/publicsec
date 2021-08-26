@@ -1,4 +1,4 @@
-# Videos - Conferences
+# Videos
 
 {% embed url="https://administraitor.video/recent" %}
 
