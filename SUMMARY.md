@@ -43,6 +43,7 @@
 
 ## CheatSheets
 
+* [Scripts](cheatsheets/scripts.md)
 * [CheatSheets](cheatsheets/untitled.md)
 
 ## Capture The Flag
