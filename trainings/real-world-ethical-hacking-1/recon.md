@@ -43,7 +43,7 @@ nmap 10.0.9.9 -sV
 
 ## Legion \(Sparta\)
 
-
+![](../../.gitbook/assets/image%20%283%29.png)
 
 
 
