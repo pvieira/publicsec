@@ -1,10 +1,11 @@
 # Table of contents
 
-* [Certifications](README.md)
-* [People](people.md)
+* [Security](README.md)
+* [Certifications](certifications.md)
 * [OSCP](oscp/README.md)
   * [Guides](oscp/guides.md)
   * [www.0daysecurity.com](oscp/www.0daysecurity.com.md)
+* [People](people.md)
 * [Misc](misc.md)
 * [Writeups](writeups.md)
 * [Videos - Conferences](videos-conferences.md)
