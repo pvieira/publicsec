@@ -6,5 +6,7 @@
 
 {% embed url="https://cryptohack.org/" %}
 
+{% embed url="https://www.pentesteracademy.com/" %}
+
 
 
