@@ -20,6 +20,7 @@
     * [Windows Commands](trainings/real-world-ethical-hacking-1/windows-commands.md)
     * [Recon](trainings/real-world-ethical-hacking-1/recon.md)
     * [Metasploit](trainings/real-world-ethical-hacking-1/metasploit.md)
+    * [SET](trainings/real-world-ethical-hacking-1/set.md)
 
 ## Capture The Flag
 
