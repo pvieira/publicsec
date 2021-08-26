@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Security](README.md)
+* [Certifications](README.md)
 * [People](people.md)
 * [OSCP](oscp/README.md)
   * [Guides](oscp/guides.md)
