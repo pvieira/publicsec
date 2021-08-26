@@ -21,6 +21,7 @@
     * [Recon](trainings/real-world-ethical-hacking-1/recon.md)
     * [Metasploit](trainings/real-world-ethical-hacking-1/metasploit.md)
     * [SET](trainings/real-world-ethical-hacking-1/set.md)
+  * [Practical Ethical Hacking](trainings/practical-ethical-hacking.md)
 
 ## Capture The Flag
 
