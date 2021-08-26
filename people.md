@@ -1,7 +1,5 @@
 # People
 
-
-
 {% embed url="https://www.youtube.com/channel/UC4m2G6T18\_JcjwxwtwKJijw" %}
 
 {% embed url="https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw" %}
