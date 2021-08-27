@@ -62,5 +62,7 @@
 
 {% embed url="https://www.youtube.com/channel/UCXz3ttB2daujpMKdLQT2vIg" %}
 
+## Virtual Machine
 
+{% embed url="https://wiki.gnuradio.org/index.php/UbuntuVM" %}
 
