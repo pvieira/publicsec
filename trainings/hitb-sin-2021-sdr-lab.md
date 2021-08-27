@@ -48,6 +48,10 @@
 
 ### Signal to analyze
 
+{% embed url="https://github.com/FlUxIuS/workshops/blob/master/GreHack\_workshop\_2019/Simulations/OOK\_generation/mod\_OOK\_sim\_inputfile.grc" %}
+
+
+
 {% embed url="https://drive.google.com/file/d/13AstX\_cAT9TGat8VcGJlfPUUPeY6HPwz/view" %}
 
 ![](../.gitbook/assets/image%20%286%29.png)
@@ -65,4 +69,10 @@
 ## Virtual Machine
 
 {% embed url="https://wiki.gnuradio.org/index.php/UbuntuVM" %}
+
+## Videos
+
+{% embed url="https://www.youtube.com/watch?v=LIcE0frWtLo" %}
+
+
 
