@@ -8,7 +8,7 @@
 
 {% embed url="https://wiki.gnuradio.org/index.php/InstallingGR" %}
 
-
+![](../.gitbook/assets/image%20%286%29.png)
 
 ## GQRX
 
