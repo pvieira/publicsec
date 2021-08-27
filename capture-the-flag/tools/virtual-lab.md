@@ -42,6 +42,8 @@ Metasploitable 2
 
 {% embed url="https://github.com/fireeye/flare-vm" %}
 
+{% embed url="https://github.com/fireeye/commando-vm" %}
+
 OSINT
 
 {% embed url="https://www.tracelabs.org/initiatives/osint-vm" %}
