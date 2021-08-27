@@ -20,6 +20,8 @@
 
 {% embed url="https://www.microsoft.com/en-us/evalcenter/try" %}
 
+{% embed url="https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/" %}
+
 ## Android
 
 {% embed url="https://www.osboxes.org/android-x86/" %}
@@ -35,6 +37,20 @@
 Metasploitable 2
 
 {% embed url="https://github.com/brysonpayne/ethical-hacking" %}
+
+## Misc
+
+{% embed url="https://github.com/fireeye/flare-vm" %}
+
+OSINT
+
+{% embed url="https://www.tracelabs.org/initiatives/osint-vm" %}
+
+{% embed url="https://inteltechniques.com/buscador/" %}
+
+{% embed url="https://docs.remnux.org/install-distro/get-virtual-appliance" %}
+
+{% embed url="https://www.genymotion.com/download/" %}
 
 
 

@@ -15,7 +15,6 @@
   * [Hack Yourself First: How to go on the Cyber-Offense](trainings/hack-yourself-first-how-to-go-on-the-cyber-offense.md)
   * [Real World Ethical Hacking](trainings/real-world-ethical-hacking-1/README.md)
     * [Hacking Windows / Mac](trainings/real-world-ethical-hacking-1/real-world-ethical-hacking.md)
-    * [Virtual Lab](trainings/real-world-ethical-hacking-1/virtual-lab.md)
     * [Linux Commands](trainings/real-world-ethical-hacking-1/linux-commands.md)
     * [Windows Commands](trainings/real-world-ethical-hacking-1/windows-commands.md)
     * [Recon](trainings/real-world-ethical-hacking-1/recon.md)
@@ -27,7 +26,8 @@
 
 * [Subscribed](capture-the-flag/subscribed.md)
 * [Full List](capture-the-flag/full-list.md)
-* [Tools](capture-the-flag/tools.md)
+* [Tools](capture-the-flag/tools/README.md)
+  * [Virtual Lab](capture-the-flag/tools/virtual-lab.md)
 * [Over The Wire](capture-the-flag/over-the-wire/README.md)
   * [Bandit](capture-the-flag/over-the-wire/bandit.md)
   * [Natas](capture-the-flag/over-the-wire/natas.md)
