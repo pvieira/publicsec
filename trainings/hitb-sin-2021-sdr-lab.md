@@ -38,5 +38,13 @@
 
 {% embed url="https://github.com/xmikos/qspectrumanalyzer" %}
 
+## Inspectrum
+
+{% embed url="https://github.com/miek/inspectrum" %}
+
+## URH
+
+{% embed url="https://github.com/jopohl/urh" %}
+
 
 
