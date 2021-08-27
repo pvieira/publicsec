@@ -8,6 +8,8 @@
 
 {% embed url="https://wiki.gnuradio.org/index.php/InstallingGR" %}
 
+
+
 ## GQRX
 
 {% embed url="https://gqrx.dk/" %}
