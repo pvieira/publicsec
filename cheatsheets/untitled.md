@@ -1,5 +1,7 @@
 # CheatSheets
 
+{% embed url="https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets" %}
+
 {% embed url="https://github.com/tldr-pages/tldr" %}
 
 {% embed url="https://github.com/cheat/cheat" %}
