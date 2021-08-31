@@ -78,5 +78,9 @@
 
 {% embed url="https://www.youtube.com/watch?v=LIcE0frWtLo" %}
 
+## Other sources
+
+{% embed url="https://github.com/ComThings/PandwaRF/wiki/Android-Brute-Force-Tutorial" %}
+
 
 
