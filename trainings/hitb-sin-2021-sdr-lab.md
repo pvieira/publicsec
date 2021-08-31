@@ -74,8 +74,6 @@
 
 {% embed url="https://github.com/luigifcruz/pisdr-image" %}
 
-
-
 ## Videos
 
 {% embed url="https://www.youtube.com/watch?v=LIcE0frWtLo" %}
