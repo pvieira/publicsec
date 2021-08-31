@@ -82,6 +82,12 @@
 
 {% embed url="https://www.youtube.com/watch?v=LIcE0frWtLo" %}
 
+## Distro
+
+{% embed url="https://sourceforge.net/projects/dragonos-10/" %}
+
+
+
 ## Other sources
 
 {% embed url="https://github.com/ComThings/PandwaRF/wiki/Android-Brute-Force-Tutorial" %}
