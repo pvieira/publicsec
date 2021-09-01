@@ -30,6 +30,7 @@
 * [Tools](capture-the-flag/tools/README.md)
   * [Virtual Lab](capture-the-flag/tools/virtual-lab.md)
   * [RF](capture-the-flag/tools/rf.md)
+  * [GPS Spoofing](capture-the-flag/tools/gps-spoofing.md)
 * [Over The Wire](capture-the-flag/over-the-wire/README.md)
   * [Bandit](capture-the-flag/over-the-wire/bandit.md)
   * [Natas](capture-the-flag/over-the-wire/natas.md)
