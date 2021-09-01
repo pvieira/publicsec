@@ -29,12 +29,15 @@
 * [Full List](capture-the-flag/full-list.md)
 * [Tools](capture-the-flag/tools/README.md)
   * [Virtual Lab](capture-the-flag/tools/virtual-lab.md)
-  * [RF](capture-the-flag/tools/rf/README.md)
-    * [Raspberry Pi Image - PiSDR](capture-the-flag/tools/rf/raspberry-pi-image-pisdr.md)
-    * [GPS Spoofing](capture-the-flag/tools/rf/gps-spoofing.md)
 * [Over The Wire](capture-the-flag/over-the-wire/README.md)
   * [Bandit](capture-the-flag/over-the-wire/bandit.md)
   * [Natas](capture-the-flag/over-the-wire/natas.md)
+
+## RF
+
+* [RF](rf/rf/README.md)
+  * [Raspberry Pi Image - PiSDR](rf/rf/raspberry-pi-image-pisdr.md)
+  * [GPS Spoofing](rf/rf/gps-spoofing.md)
 
 ## Crypto
 
