@@ -73,3 +73,7 @@
 
 * [OSINT](osint/osint.md)
 
+## HW
+
+* [Hardware](hw/hardware.md)
+
