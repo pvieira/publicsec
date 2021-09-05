@@ -82,6 +82,8 @@
 
 {% embed url="https://www.youtube.com/watch?v=LIcE0frWtLo" %}
 
+{% embed url="https://greatscottgadgets.com/sdr/" %}
+
 ## Distro
 
 {% embed url="https://sourceforge.net/projects/dragonos-10/" %}
@@ -91,4 +93,23 @@
 ## Other sources
 
 {% embed url="https://github.com/ComThings/PandwaRF/wiki/Android-Brute-Force-Tutorial" %}
+
+## Antena Size
+
+{% embed url="https://www.solidremote.com/blog/rf-module-external-antenna-design/" %}
+
+### Antenna Length Table
+
+_**INFORMATION:**_ The table below has listed several common RF transmitter frequencies and their matching antenna length, the best antenna length is calculated by divide the wavelength by four.
+
+| RF Module External Antenna Length Calculations |  |
+| :--- | :--- |
+| Operating Frequency | Best Antenna Length |
+| 315 MHz | 23.81 cm / 9.37 inch |
+| 418 MHz | 17.94 cm / 7.06 inch |
+| 430 MHz | 17.44 cm / 6.87 inch |
+| 433.92 MHz | 17.28 cm / 6.80 inch |
+| 868.35 MHz | 8.64 cm / 3.40 inch |
+
+
 
